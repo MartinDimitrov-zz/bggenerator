@@ -1,0 +1,5 @@
+.delete:after {
+    content: "X";
+    margin: 20px;
+    color: red;
+}
